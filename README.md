@@ -61,11 +61,11 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 
 # Tabla Comparativa
 
-    |                  | Microsoft Azure | Amazon Web Services  | IBM |
-    |----------------- | --------------- | -------------------- | --- |
-    |  Oferta General  | Content Cell    | Content Cell         |     |
-    |   Posicionamiento en el Mercado | Content Cell    | Content Cell         |     |
-    | Beneficios para los developers  |                 |    |
+|                  | Microsoft Azure | Amazon Web Services  | IBM |
+| --- | --- | --- | --- |
+|  Oferta General  |  Maquinas Virtuales, Almacenamiento, Bases de datos   |         |     |
+|   Posicionamiento en el Mercado |      | Content Cell         |     |
+| Beneficios para los developers  |                 |    |   |   
     
 # Referencias
 
@@ -75,5 +75,6 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 4. https://www.beservices.es/cloud-computing-virtualizacion-n-5345-es
 5. https://www.la.logicalis.com/soluciones-servicios/usted-la-nube-y-logicalis/conceptos-basicos/
 6. https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
+7. https://www.techradar.com/best/best-cloud-computing-services
 
 
