@@ -81,5 +81,11 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 6. Microsoft Azure. (s.f). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
 7. Drake, N., & Turner, B. (2019). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
 
+# Links Importantes 
+
+- Github Pages: https://njohnsoncr.github.io/Investigacion-Datos-1/
+
+- Microsoft Azure App: https://azurebasicexample.azurewebsites.net/
+
 
 
