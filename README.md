@@ -63,9 +63,9 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 
 |                  | Microsoft Azure | Amazon Web Services  | IBM Cloud |
 | --- | --- | --- | --- |
-|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.   |  Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.  |     |
+|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.   |  Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.  |   Almacenamiento y gestion de redes, bases de datos, maquinas virtuales, servidores, IoT, entre otros.   |
 |   Posicionamiento en el Mercado |   #2 en Tech Radar   |  #1 en Tech Radar |  #4 en Tech Radar   |
-| Beneficios para los developers  |                 |    |   |   
+| Beneficios para los developers  |  Posibilidad de uso de muchos lenguajes, programación en la nube, AI mas reciente para sus aplicaciones, entre otros. | Multiplataforma, programación en la nube, permite muchos lenguajes, entre otros.   | Multiples lenguajes, multiplataforma, utilización de API, entre otros.  |   
     
 # Referencias
 
