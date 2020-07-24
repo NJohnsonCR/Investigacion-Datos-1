@@ -17,7 +17,7 @@ El Cloud Computing o computación en nube significa que el hardware y software e
 
 El origen del cloud computing, parece bastante reciente, sin embargo, sus primeros inicios pueden remontarse a la década de los 60. Algunos expertos indican que fue **John McCarthy** quien introdujo este concepto en 1961, al cual también se le atribuye el concepto de inteligencia artificial. Entre otros autores que se le atribuyen este concepto, se encuentra **Joseph Carl Licklider**, quien se asegura que el pretendía que todo el mundo pudiese estar interconectado para acceder a los programas y datos desde cualquier lugar. 
 
-En los años 60 las empresas comenzaban a necesitar consultar grandes cantidades de información desde distintos lugares de acceso, no obstante, recurrir a infraestructuras era muy caro, por lo tanto, comenzaron a estudiar la forma de integrar una CPU con acceso a múltiples usuarios. En el año 1969 Licklider introdujo  **las redes intergalácticas de computación**, con el deseo de que este tipo de programas pudisen llegar a todas las personas, sin embargo, la lentitud en la innovación de la tecnología hizo que la idea de computación compartida quedase parada hasta los años 90. A finales de los años 90, específicamente en 1999, se produjo un gran avance en el cloud computing, que se inauguró ** Salesforce**. Se trataba de un nuevo concepto, con el que se pretendía ofrecer aplicaciones empresariales a través de una página web simple. A partir de ese momento, las grandes empresas de informática comenzaron a interesarse por los servicios de Cloud Computing y comenzó la innovación y desarrollo de los diferentes tipos de nubes.
+En los años 60 las empresas comenzaban a necesitar consultar grandes cantidades de información desde distintos lugares de acceso, no obstante, recurrir a infraestructuras era muy caro, por lo tanto, comenzaron a estudiar la forma de integrar una CPU con acceso a múltiples usuarios. En el año 1969 Licklider introdujo  **las redes intergalácticas de computación**, con el deseo de que este tipo de programas pudisen llegar a todas las personas, sin embargo, la lentitud en la innovación de la tecnología hizo que la idea de computación compartida quedase parada hasta los años 90. A finales de los años 90, específicamente en 1999, se produjo un gran avance en el cloud computing, que se inauguró **Salesforce**. Se trataba de un nuevo concepto, con el que se pretendía ofrecer aplicaciones empresariales a través de una página web simple. A partir de ese momento, las grandes empresas de informática comenzaron a interesarse por los servicios de Cloud Computing y comenzó la innovación y desarrollo de los diferentes tipos de nubes.
 
 # Conceptos Básicos 
 
@@ -63,8 +63,7 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 
 |                  | Microsoft Azure | Amazon Web Services  | IBM Cloud |
 | --- | --- | --- | --- |
-|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos   |         |     |
-|                  |                                                       |        |     | 
+|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.   |  Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.  |     |
 |   Posicionamiento en el Mercado |   #2 en Tech Radar   |  #1 en Tech Radar |  #4 en Tech Radar   |
 | Beneficios para los developers  |                 |    |   |   
     
