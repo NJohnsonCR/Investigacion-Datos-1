@@ -64,7 +64,7 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 |                  | Microsoft Azure | Amazon Web Services  | IBM Cloud |
 | --- | --- | --- | --- |
 |  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos   |         |     |
-                     
+|                  |                                                       |        |     | 
 |   Posicionamiento en el Mercado |   #2 en Tech Radar   |  #1 en Tech Radar |  #4 en Tech Radar   |
 | Beneficios para los developers  |                 |    |   |   
     
