@@ -69,12 +69,13 @@ Servicios de computación en la nube que permiten que los clientes compren recur
     
 # Referencias
 
-1. http://blog.editafacil.es/que-es-y-para-que-sirve-el-cloud-computing/
-2. https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/
-3. https://azure.microsoft.com/es-es/overview/what-is-a-cloud-provider/
-4. https://www.beservices.es/cloud-computing-virtualizacion-n-5345-es
-5. https://www.la.logicalis.com/soluciones-servicios/usted-la-nube-y-logicalis/conceptos-basicos/
-6. https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
-7. https://www.techradar.com/best/best-cloud-computing-services
+1. Hernandez, J. (2016). ¿Qué es y para que sirve el cloud computing? Recuperado de http://blog.editafacil.es/que-es-y-para-que-sirve-el-cloud-computing/
+2. CISGA. (2019). Origen del cloud computing. Recuperado de https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/
+3. Microsoft Azure. (s.f). ¿Qué es un proveedor de servicios en la nube?. Recuperado de https://azure.microsoft.com/es-es/overview/what-is-a-cloud-provider/
+4. beServices. (2018). La virtualización y el cloud computing: Todo lo que debes saber. Recuperado de https://www.beservices.es/cloud-computing-virtualizacion-n-5345-es
+5. LOGICALIS. (s.f). Conceptos básicos de la nube. Recuperado de https://www.la.logicalis.com/soluciones-servicios/usted-la-nube-y-logicalis/conceptos-basicos/
+6. Microsoft Azure. (s.f). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
+7. Drake, N., & Turner, B. (2019). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
+
 
 
