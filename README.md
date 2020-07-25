@@ -67,7 +67,7 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 
 |                  | Microsoft Azure | Amazon Web Services  | IBM Cloud |
 | --- | --- | --- | --- |
-|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.   |  Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.  |   Almacenamiento y gestion de redes, bases de datos, maquinas virtuales, servidores, IoT, entre otros.   |
+|  Oferta General  | Ofrece servicios en las tres capas de la nube (IaaS, PaaS y SaaS), Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, entre otros.   |   Ofrece los tres servicios: IaaS, PaaS y SaaS, Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, entre otros.  |   Ofrece los tres servicios: IaaS, PaaS y SaaS, Almacenamiento y gestion de redes, bases de datos, maquinas virtuales, servidores, entre otros.   |
 |   Posicionamiento en el Mercado |   Actualmente el #2 (TechRadar)  |  Actualmente el #1 (TechRadar) |  Actualmente el #4 (TechRadar)   |
 | Beneficios para los developers  |  Posibilidad de uso de muchos lenguajes, programación en la nube, AI mas reciente para sus aplicaciones, entre otros. | Multiplataforma, programación en la nube, permite muchos lenguajes, entre otros.   | Multiples lenguajes, multiplataforma, utilización de API, entre otros.  |   
     
