@@ -67,8 +67,8 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 
 |                  | Microsoft Azure | Amazon Web Services  | IBM Cloud |
 | --- | --- | --- | --- |
-|  Oferta General  | Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.   |  Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, IoT, entre otros.  |   Almacenamiento y gestion de redes, bases de datos, maquinas virtuales, servidores, IoT, entre otros.   |
-|   Posicionamiento en el Mercado |   #2 en Tech Radar   |  #1 en Tech Radar |  #4 en Tech Radar   |
+|  Oferta General  | Ofrece servicios en las tres capas de la nube (IaaS, PaaS y SaaS), Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, entre otros.   |   Ofrece los tres servicios: IaaS, PaaS y SaaS, Maquinas Virtuales, Almacenamiento, Bases de datos, servidores, entre otros.  |   Ofrece los tres servicios: IaaS, PaaS y SaaS, Almacenamiento y gestion de redes, bases de datos, maquinas virtuales, servidores, entre otros.   |
+|   Posicionamiento en el Mercado |   Actualmente el #2 (TechRadar)  |  Actualmente el #1 (TechRadar) |  Actualmente el #4 (TechRadar)   |
 | Beneficios para los developers  |  Posibilidad de uso de muchos lenguajes, programación en la nube, AI mas reciente para sus aplicaciones, entre otros. | Multiplataforma, programación en la nube, permite muchos lenguajes, entre otros.   | Multiples lenguajes, multiplataforma, utilización de API, entre otros.  |   
     
 # Referencias
@@ -79,13 +79,19 @@ Servicios de computación en la nube que permiten que los clientes compren recur
 4. beServices. (2018). La virtualización y el cloud computing: Todo lo que debes saber. Recuperado de https://www.beservices.es/cloud-computing-virtualizacion-n-5345-es
 5. LOGICALIS. (s.f). Conceptos básicos de la nube. Recuperado de https://www.la.logicalis.com/soluciones-servicios/usted-la-nube-y-logicalis/conceptos-basicos/
 6. Microsoft Azure. (s.f). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
-7. Drake, N., & Turner, B. (2019). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
-
+7. Drake, N., & Turner, B.(2019). ¿Qué es la nube pública, privada e híbrida? Recuperado de https://azure.microsoft.com/es-es/overview/what-are-private-public-hybrid-clouds/
+8. Adam, M. Adam Marczak - Azure for Everyone. (2019). Azure App Service (Web Apps) Tutorial. Recuperado de https://www.youtube.com/watch?v=4BwyqmRTrx8&t=866s
+9. Mueller, P., Sloyer, J., Vennam R., Holt, B., Tsai, Rophy. node-helloworld.(2017). GitHub repository, https://github.com/IBM-Cloud/node-helloworld 
 # Links Importantes 
 
-- Github Pages: https://njohnsoncr.github.io/Investigacion-Datos-1/
+- Github Pages: https://njohnsoncr.github.io/Investigacion-Datos-1/ 
 
-- Microsoft Azure App: https://azurebasicexample.azurewebsites.net/
+- Microsoft Azure App: https://azurebasicexample.azurewebsites.net/ (8)
+
+- IBM App: http://ibm-python-prueba-generous-dog-se.mybluemix.net/ (Por falta de memoria por parte del servidor, al ser un un plan gratis con espacio limitadp, no se pudo actualizar con el código planeado, el cual era una función que calculaba el factorial, que se encuentra en la parte del código de IBM) (9)
+![](https://cdn.discordapp.com/attachments/633482053530157056/736432221421961307/Captura.PNG)
+
+- Google Cloud: No se pudo implementar por falta de tiempo. 
 
 
 
